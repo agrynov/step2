@@ -1,0 +1,6 @@
+.dockerignore
+Dockerfile
+.gitignore
+docker-run.md
+node_modules
+Jenkinsfile
